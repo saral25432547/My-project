@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MetaMonkeys_ShabonDama_Gaming
+  m_Shader: {fileID: 4800000, guid: 70cf8502e19fa6a499d19730a6b3b653, type: 3}
+  m_ShaderKeywords: _EMISSIONSCROLL_ON _FLASHING_ON _GLITCH_ON _KEYWORD0_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GradientDistortionTexture:
+        m_Texture: {fileID: 2800000, guid: 2772316bbfd7e014a852222a5a629d21, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientTexture:
+        m_Texture: {fileID: 2800000, guid: b54f9a6e3cf154143b6dbef6cd2253be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeaderLightingGradientTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeaderMainTexturesGradientTexture:
+        m_Texture: {fileID: 2800000, guid: b54f9a6e3cf154143b6dbef6cd2253be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTexture:
+        m_Texture: {fileID: 2800000, guid: c6eafd3b7fbc25a44b44600f4ee4fb18, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 77fdad851e93f394c9f8a1b1a63b56f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: a174f25610aa260419d13c28372ca403, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 2800000, guid: a174f25610aa260419d13c28372ca403, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture1:
+        m_Texture: {fileID: 2800000, guid: b8960a088bdbdad478c88078ffab9d8c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture2:
+        m_Texture: {fileID: 2800000, guid: b54f9a6e3cf154143b6dbef6cd2253be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture3:
+        m_Texture: {fileID: 2800000, guid: 0fa953077ee3b4d49b74e56801a27e77, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ChromaticAberration: 0.1
+    - _EmissionScroll: 1
+    - _Flashing: 1
+    - _Float0: 11.49
+    - _Float1: 3.1
+    - _Float10: 1
+    - _Float11: 1.11
+    - _Float12: 0.06
+    - _Float13: 0.02
+    - _Float14: 2.08
+    - _Float15: 1
+    - _Float16: 0.18
+    - _Float17: 0.7
+    - _Float18: 0.65
+    - _Float2: 46.6
+    - _Float3: 0.8
+    - _Float4: 0.9
+    - _Float5: 6.52
+    - _Float6: 0.14185789
+    - _Float7: 35.3
+    - _Float8: 16.87
+    - _Float9: 1
+    - _Glitch: 0
+    - _Keyword0: 1
+    - __dirty: 0
+    - _albedo: 0.06
+    - _emissionintensity: 20
+    - _emissionscroll: 1
+    - _emissionscrollmin: 0.201
+    - _emissionscrollspeed: -0.2
+    - _emissionscrollwidth: 0.49
+    - _flashing: 1
+    - _flashingmin: 0.532
+    - _flashingrandomrange: 17.4
+    - _flashingspeed: 2
+    - _fresnelpower: 3
+    - _glitch: 1
+    - _glitchfrequency: 1
+    - _glitchintensity: 0.111
+    - _glitchlength: 0.011
+    - _glitchrandomrange: 20
+    - _iridescentdistortionintensity: 1
+    - _iridescentdistortiontiling: 0.18
+    - _iridescenttiling: 0.6
+    - _normalintensity: 0.5
+    - _normalscrollspeed: 0.08
+    - _normaltiling: 0.5
+    - _opacity: 0.15
+    - _smoothness: 1
+    - _specular: 0.266
+    - _vertexnoiseintensity: 2
+    - _vertexnoisescale: 2
+    - _vertexnoisespeed: 0.75
+    - _vertexoffsetintensity: 1.38
+    m_Colors:
+    - _Color0: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Vector0: {r: 1, g: 0, b: 0, a: 0}
+    - _glitchdirection: {r: 1, g: 0, b: 0, a: 0}

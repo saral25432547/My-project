@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 911c313703932014f90f4c683cfc880b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _HeaderMainTexturesGradientTexture: {fileID: 2800000, guid: b54f9a6e3cf154143b6dbef6cd2253be, type: 3}
+  - _GradientDistortionTexture: {fileID: 2800000, guid: 2772316bbfd7e014a852222a5a629d21, type: 3}
+  - _NormalTexture: {fileID: 2800000, guid: c6eafd3b7fbc25a44b44600f4ee4fb18, type: 3}
+  - _texcoord3: {fileID: 2800000, guid: be67ca9a15edf9e47ab2c8c71a3dc0ff, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
